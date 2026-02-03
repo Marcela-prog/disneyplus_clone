@@ -1,0 +1,27 @@
+{
+  "name": "disneyplus_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcela-prog/disneyplus_clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Marcela-prog/disneyplus_clone/issues"
+  },
+  "homepage": "https://github.com/Marcela-prog/disneyplus_clone#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.97.3"
+  }
+}
